@@ -9,3 +9,9 @@ persist.vendor.camera.ois.video=1
 
 # Xiaomi
 ro.product.mod_device=marble_global
+
+# rom
+ro.pixelcore.soc=Snapdragon™ 7+ Gen 2
+ro.pixelcore.battery=5000 mAh
+ro.pixelcore.display=1080x2400, 120Hz 
+ro.pixelcore.camera=64MP + 8MP + 2MP
